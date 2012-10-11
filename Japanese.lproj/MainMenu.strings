@@ -1,0 +1,420 @@
+﻿
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "378"; */
+"378.title" = "範囲選択";
+
+/* Class = "NSMenuItem"; title = "Screen"; ObjectID = "379"; */
+"379.title" = "スクリーン";
+
+/* Class = "NSMenuItem"; title = "Quit SimpleCap"; ObjectID = "380"; */
+"380.title" = "SimpleCap を終了";
+
+/* Class = "NSMenuItem"; title = "Windows"; ObjectID = "383"; */
+"383.title" = "ウィンドウ";
+
+/* Class = "NSMenuItem"; title = "Application"; ObjectID = "400"; */
+"400.title" = "アプリケーション";
+
+/* Class = "NSMenuItem"; title = "Menu"; ObjectID = "426"; */
+"426.title" = "メニュー";
+
+/* Class = "NSMenuItem"; title = "About SimpleCap"; ObjectID = "427"; */
+"427.title" = "SimpleCap について";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "438"; */
+"438.title" = "環境設定...";
+
+/* Class = "NSMenuItem"; title = "Widgets"; ObjectID = "443"; */
+"443.title" = "ウィジェット";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "455"; */
+"455.title" = "ウィンドウ";
+
+/* Class = "NSTabViewItem"; label = "General"; ObjectID = "463"; */
+"463.label" = "一般";
+
+/* Class = "NSTabViewItem"; label = "Window"; ObjectID = "464"; */
+"464.label" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "Image Format: "; ObjectID = "472"; */
+"472.title" = "画像フォーマット: ";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "483"; */
+"483.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "PNG"; ObjectID = "484"; */
+"484.title" = "PNG";
+
+/* Class = "NSMenuItem"; title = "GIF"; ObjectID = "485"; */
+"485.title" = "GIF";
+
+/* Class = "NSMenuItem"; title = "JPEG"; ObjectID = "486"; */
+"486.title" = "JPEG";
+
+/* Class = "NSTextFieldCell"; title = "Image Location: "; ObjectID = "493"; */
+"493.title" = "保存場所: ";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "497"; */
+"497.title" = "選択...";
+
+/* Class = "NSButtonCell"; title = "Background"; ObjectID = "517"; */
+"517.title" = "背景画像";
+
+/* Class = "NSButtonCell"; title = "Window Shadow"; ObjectID = "518"; */
+"518.title" = "ウィンドウ影";
+
+/* Class = "NSTextFieldCell"; title = "Image Options:"; ObjectID = "520"; */
+"520.title" = "画像オプション:";
+
+/* Class = "NSTabViewItem"; label = "Selection"; ObjectID = "521"; */
+"521.label" = "範囲選択";
+
+/* Class = "NSTextFieldCell"; title = "Image Options:"; ObjectID = "539"; */
+"539.title" = "画像オプション:";
+
+/* Class = "NSButtonCell"; title = "White Frame"; ObjectID = "541"; */
+"541.title" = "白枠";
+
+/* Class = "NSButtonCell"; title = "Shadow"; ObjectID = "543"; */
+"543.title" = "影";
+
+/* Class = "NSButtonCell"; title = "RoundRect"; ObjectID = "545"; */
+"545.title" = "角丸";
+
+/* Class = "NSMenuItem"; title = "Cancel Capture"; ObjectID = "594"; */
+"594.title" = "キャプチャを中止";
+
+/* Class = "NSTabViewItem"; label = "Mouse"; ObjectID = "596"; */
+"596.label" = "マウス";
+
+/* Class = "NSButtonCell"; title = "Use private functions for cursor"; ObjectID = "599"; */
+"599.title" = "マウスカーソル表示にプライベート関数を使う";
+
+/* Class = "NSTextFieldCell"; title = "Preset Sizes:"; ObjectID = "685"; */
+"685.title" = "設定サイズ:";
+
+/* Class = "NSTextFieldCell"; title = "name"; ObjectID = "691"; */
+"691.title" = "名前";
+
+/* Class = "NSTextFieldCell"; title = "width"; ObjectID = "693"; */
+"693.title" = "横幅";
+
+/* Class = "NSTextFieldCell"; title = "height"; ObjectID = "697"; */
+"697.title" = "高さ";
+
+/* Class = "NSMenuItem"; title = "Simple Viewer"; ObjectID = "937"; */
+"937.title" = "Simple Viewer";
+
+/* Class = "NSMenuItem"; title = "Reset Selection"; ObjectID = "939"; */
+"939.title" = "範囲選択リセット";
+
+/* Class = "NSTabViewItem"; label = "Viewer"; ObjectID = "946"; */
+"946.label" = "Viewer";
+
+/* Class = "NSTextFieldCell"; title = "MultilineLabel"; ObjectID = "965"; */
+"965.title" = "MultilineLabel";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "1034"; */
+"1034.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "1146"; */
+"1146.title" = "選択...";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "1147"; */
+"1147.title" = "選択...";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "1148"; */
+"1148.title" = "選択...";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "1149"; */
+"1149.title" = "選択...";
+
+/* Class = "NSButtonCell"; title = "Choose..."; ObjectID = "1150"; */
+"1150.title" = "選択...";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Application4"; ObjectID = "1151"; */
+"1151.placeholderString" = "アプリケーション4";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Application5"; ObjectID = "1152"; */
+"1152.placeholderString" = "アプリケーション5";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Application1"; ObjectID = "1153"; */
+"1153.placeholderString" = "アプリケーション1";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Application3"; ObjectID = "1154"; */
+"1154.placeholderString" = "アプリケーション3";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Application2"; ObjectID = "1156"; */
+"1156.placeholderString" = "アプリケーション2";
+
+/* Class = "NSTextFieldCell"; title = "Preset Applications:"; ObjectID = "1161"; */
+"1161.title" = "設定済みアプリケーション:";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "no preset"; ObjectID = "1190"; */
+"1190.designableIsNilPlaceholder" = "未設定";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "no preset"; ObjectID = "1191"; */
+"1191.designableIsNilPlaceholder" = "未設定";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "no preset"; ObjectID = "1192"; */
+"1192.designableIsNilPlaceholder" = "未設定";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "no preset"; ObjectID = "1193"; */
+"1193.designableIsNilPlaceholder" = "未設定";
+
+/* Class = "IBBindingConnection"; designableIsNilPlaceholder = "no preset"; ObjectID = "1194"; */
+"1194.designableIsNilPlaceholder" = "未設定";
+
+/* Class = "NSMenuItem"; title = "Windows"; ObjectID = "1222"; */
+"1222.title" = "ウィンドウ";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "1223"; */
+"1223.title" = "範囲選択";
+
+/* Class = "NSMenuItem"; title = "Menu"; ObjectID = "1224"; */
+"1224.title" = "メニュー";
+
+/* Class = "NSMenuItem"; title = "Screen"; ObjectID = "1225"; */
+"1225.title" = "スクリーン";
+
+/* Class = "NSMenuItem"; title = "Widgets"; ObjectID = "1229"; */
+"1229.title" = "ウィジェット";
+
+/* Class = "NSMenuItem"; title = "Application"; ObjectID = "1230"; */
+"1230.title" = "アプリケーション";
+
+/* Class = "NSMenu"; title = "Application"; ObjectID = "1231"; */
+"1231.title" = "アプリケーション";
+
+/* Class = "NSMenuItem"; title = "Show Bounds"; ObjectID = "1248"; */
+"1248.title" = "境界線";
+
+/* Class = "NSButtonCell"; title = "Exclude Desktop icons"; ObjectID = "1254"; */
+"1254.title" = "デスクトップアイコンを隠す";
+
+/* Class = "NSMenuItem"; title = "Background Pattern"; ObjectID = "1268"; */
+"1268.title" = "背景パターン";
+
+/* Class = "NSMenuItem"; title = "White"; ObjectID = "1269"; */
+"1269.title" = "白";
+
+/* Class = "NSMenuItem"; title = "Checkboard"; ObjectID = "1270"; */
+"1270.title" = "チェックボード";
+
+/* Class = "NSMenuItem"; title = "Black"; ObjectID = "1271"; */
+"1271.title" = "黒";
+
+/* Class = "NSMenuItem"; title = "Quick Configuration"; ObjectID = "1300"; */
+"1300.title" = "クイック設定";
+
+/* Class = "NSMenuItem"; title = "White Frame"; ObjectID = "1301"; */
+"1301.title" = "白枠";
+
+/* Class = "NSMenuItem"; title = "Shadow"; ObjectID = "1302"; */
+"1302.title" = "影";
+
+/* Class = "NSMenuItem"; title = "RoundRect"; ObjectID = "1303"; */
+"1303.title" = "角丸";
+
+/* Class = "NSMenuItem"; title = "Exclude Desktop icons"; ObjectID = "1304"; */
+"1304.title" = "デスクトップアイコンを隠す";
+
+/* Class = "NSMenuItem"; title = "Quick Configuration"; ObjectID = "1313"; */
+"1313.title" = "クイック設定";
+
+/* Class = "NSMenuItem"; title = "Shadow"; ObjectID = "1315"; */
+"1315.title" = "影";
+
+/* Class = "NSMenuItem"; title = "Background"; ObjectID = "1316"; */
+"1316.title" = "背景画像";
+
+/* Class = "NSTextFieldCell"; title = "Background Pattern:"; ObjectID = "1325"; */
+"1325.title" = "背景パターン:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1330"; */
+"1330.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Black"; ObjectID = "1331"; */
+"1331.title" = "黒";
+
+/* Class = "NSMenuItem"; title = "Checkboard"; ObjectID = "1332"; */
+"1332.title" = "チェックボード";
+
+/* Class = "NSMenuItem"; title = "White"; ObjectID = "1333"; */
+"1333.title" = "白";
+
+/* Class = "NSButtonCell"; title = "Image Bounds"; ObjectID = "1337"; */
+"1337.title" = "境界線";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1353"; */
+"1353.title" = "コピー";
+
+/* Class = "NSMenuItem"; title = "Exclude Desktop icons"; ObjectID = "1358"; */
+"1358.title" = "デスクトップアイコンを隠す";
+
+/* Class = "NSMenuItem"; title = "Quick Configuration"; ObjectID = "1361"; */
+"1361.title" = "クイック設定";
+
+/* Class = "NSMenuItem"; title = "Image Format"; ObjectID = "1364"; */
+"1364.title" = "画像フォーマット";
+
+/* Class = "NSMenuItem"; title = "PNG"; ObjectID = "1365"; */
+"1365.title" = "PNG";
+
+/* Class = "NSMenuItem"; title = "JPEG"; ObjectID = "1366"; */
+"1366.title" = "JPEG";
+
+/* Class = "NSMenuItem"; title = "GIF"; ObjectID = "1368"; */
+"1368.title" = "GIF";
+
+/* Class = "NSMenuItem"; title = "Image Format"; ObjectID = "1374"; */
+"1374.title" = "画像フォーマット";
+
+/* Class = "NSMenuItem"; title = "PNG"; ObjectID = "1375"; */
+"1375.title" = "PNG";
+
+/* Class = "NSMenuItem"; title = "GIF"; ObjectID = "1376"; */
+"1376.title" = "GIF";
+
+/* Class = "NSMenuItem"; title = "JPEG"; ObjectID = "1377"; */
+"1377.title" = "JPEG";
+
+/* Class = "NSMenuItem"; title = "Image Format"; ObjectID = "1382"; */
+"1382.title" = "画像フォーマット";
+
+/* Class = "NSMenuItem"; title = "PNG"; ObjectID = "1383"; */
+"1383.title" = "PNG";
+
+/* Class = "NSMenuItem"; title = "GIF"; ObjectID = "1384"; */
+"1384.title" = "GIF";
+
+/* Class = "NSMenuItem"; title = "JPEG"; ObjectID = "1385"; */
+"1385.title" = "JPEG";
+
+/* Class = "NSButtonCell"; title = "Exclude Desktop Icons"; ObjectID = "1391"; */
+"1391.title" = "デスクトップアイコンを隠す";
+
+/* Class = "NSTextFieldCell"; title = "Screen Options:"; ObjectID = "1394"; */
+"1394.title" = "スクリーンオプション:";
+
+/* Class = "NSButtonCell"; title = "Display mouse cursor (Timer only)"; ObjectID = "1396"; */
+"1396.title" = "マウスカーソル表示 (タイマー時)";
+
+/* Class = "NSMenuItem"; title = "Selection Size"; ObjectID = "1399"; */
+"1399.title" = "範囲選択サイズ";
+
+/* Class = "NSMenuItem"; title = "(size1)"; ObjectID = "1400"; */
+"1400.title" = "(size1)";
+
+/* Class = "NSMenuItem"; title = "(size2)"; ObjectID = "1401"; */
+"1401.title" = "(size2)";
+
+/* Class = "NSMenuItem"; title = "(size3)"; ObjectID = "1402"; */
+"1402.title" = "(size3)";
+
+/* Class = "NSMenuItem"; title = "(size4)"; ObjectID = "1403"; */
+"1403.title" = "(size4)";
+
+/* Class = "NSMenuItem"; title = "(size5)"; ObjectID = "1404"; */
+"1404.title" = "(size5)";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "1405"; */
+"1405.title" = "環境設定...";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "1409"; */
+"1409.title" = "環境設定...";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "1412"; */
+"1412.title" = "環境設定...";
+
+/* Class = "NSMenuItem"; title = "Mouse Cursor"; ObjectID = "1418"; */
+"1418.title" = "マウスカーソル";
+
+/* Class = "NSMenuItem"; title = "Mouse Cursor"; ObjectID = "1420"; */
+"1420.title" = "マウスカーソル";
+
+/* Class = "NSMenuItem"; title = "Mouse Cursor"; ObjectID = "1422"; */
+"1422.title" = "マウスカーソル";
+
+/* Class = "NSButtonCell"; title = "Return to default"; ObjectID = "1431"; */
+"1431.title" = "リセット";
+
+/* Class = "NSButtonCell"; title = "Hot Key:"; ObjectID = "1435"; */
+"1435.title" = "ホットキー:";
+
+/* Class = "NSButtonCell"; title = "enable"; ObjectID = "1458"; */
+"1458.title" = "有効";
+
+/* Class = "NSTextFieldCell"; title = "Launch on login: "; ObjectID = "1462"; */
+"1462.title" = "ログイン時に起動する: ";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "1465"; */
+"1465.title" = "Box";
+
+/* Class = "NSButtonCell"; title = "Make Menubar actual width "; ObjectID = "1469"; */
+"1469.title" = "メニューバーを実際の幅に合わせる";
+
+/* Class = "NSTextFieldCell"; title = "Menu Options:"; ObjectID = "1470"; */
+"1470.title" = "メニューオプション:";
+
+/* Class = "NSMenuItem"; title = "Mouse Cursor"; ObjectID = "1474"; */
+"1474.title" = "マウスカーソル";
+
+/* Class = "NSMenuItem"; title = "Preferences..."; ObjectID = "1475"; */
+"1475.title" = "環境設定...";
+
+/* Class = "NSMenuItem"; title = "GIF"; ObjectID = "1478"; */
+"1478.title" = "GIF";
+
+/* Class = "NSMenuItem"; title = "JPEG"; ObjectID = "1479"; */
+"1479.title" = "JPEG";
+
+/* Class = "NSMenuItem"; title = "PNG"; ObjectID = "1480"; */
+"1480.title" = "PNG";
+
+/* Class = "NSMenuItem"; title = "Image Format"; ObjectID = "1481"; */
+"1481.title" = "画像フォーマット";
+
+/* Class = "NSMenuItem"; title = "Background"; ObjectID = "1482"; */
+"1482.title" = "背景画像";
+
+/* Class = "NSMenuItem"; title = "Shadow"; ObjectID = "1483"; */
+"1483.title" = "影";
+
+/* Class = "NSMenuItem"; title = "Quick Configuration"; ObjectID = "1484"; */
+"1484.title" = "クイック設定";
+
+/* Class = "NSMenuItem"; title = "Make Menubar actual width"; ObjectID = "1492"; */
+"1492.title" = "メニューバーを実際の幅に合わせる";
+
+/* Class = "NSMenuItem"; title = "Save with current rate"; ObjectID = "1500"; */
+"1500.title" = "現在の縮小率で画像を保存する";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "1502"; */
+"1502.title" = "複製";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1503"; */
+"1503.title" = "コピー";
+
+/* Class = "NSMenuItem"; title = "Open Image Folder"; ObjectID = "1513"; */
+"1513.title" = "画像フォルダを開く";
+
+/* Class = "NSMenuItem"; title = "Open Image Folder"; ObjectID = "1515"; */
+"1515.title" = "画像フォルダを開く";
+
+/* Class = "NSMenuItem"; title = "Help..."; ObjectID = "1518"; */
+"1518.title" = "ヘルプ...";
+
+/* Class = "NSMenuItem"; title = "(Copy to clipboard)"; ObjectID = "1520"; */
+"1520.title" = "(クリップボードへコピー)";
+
+/* Class = "NSMenuItem"; title = "(Copy to clipboard)"; ObjectID = "1523"; */
+"1523.title" = "(クリップボードへコピー)";
+
+/* Class = "NSMenuItem"; title = "(Copy to clipboard)"; ObjectID = "1526"; */
+"1526.title" = "(クリップボードへコピー)";
+
+/* Class = "NSMenuItem"; title = "(Copy to Clipboard)"; ObjectID = "1529"; */
+"1529.title" = "(クリップボードへコピー)";
+
+/* Class = "NSMenuItem"; title = "(Copy to clipboard)"; ObjectID = "1530"; */
+"1530.title" = "(クリップボードへコピー)";

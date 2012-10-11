@@ -1,0 +1,7 @@
+#define CAPTURE_WINDOW		@"Window"
+#define CAPTURE_TRACKWINDOW	@"TrackWindow"
+#define CAPTURE_SELECTION	@"Selection"
+#define CAPTURE_SCREEN		@"Screen"
+#define CAPTURE_MENU		@"Menu"
+#define CAPTURE_APPLICATION	@"Application"
+#define CAPTURE_WIDGET		@"Widget"
