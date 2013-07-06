@@ -15,7 +15,7 @@
 {
 	NSRect frame = NSZeroRect;
 	self = [super initWithContentRect:frame
-							styleMask:NSResizableWindowMask|NSHUDWindowMask| NSClosableWindowMask | NSUtilityWindowMask | NSNonactivatingPanelMask
+							styleMask:NSResizableWindowMask|NSHUDWindowMask| NSTitledWindowMask | NSClosableWindowMask | NSUtilityWindowMask | NSNonactivatingPanelMask
 							  backing:NSBackingStoreBuffered
 								defer:NO];
 
@@ -49,8 +49,11 @@
 {
 	if (![self isVisible]) {
 		[self setAlphaValue:0.0];
+        [self setFloatingPanel:YES];
 		[self makeKeyAndOrderFront:nil];
-//		[NSApp activateIgnoringOtherApps:YES];
+		[NSApp activateIgnoringOtherApps:YES];
+//        [self setFloatingPanel:NO];
+        // @see http://xcatsan.blogspot.jp/2010/05/simplecap-viewer.html
 	}
 	NSMutableDictionary* dict = [NSMutableDictionary dictionary];
 	[dict setObject:self forKey:NSViewAnimationTargetKey];

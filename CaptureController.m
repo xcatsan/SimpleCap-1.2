@@ -176,9 +176,33 @@
 				NSImage *image = [[[NSImage alloc] init] autorelease];
 				[image addRepresentation:bitmap_rep];
 				
+				CGFloat displayScale = 1.f;
+                if ([[NSScreen mainScreen] respondsToSelector:@selector(backingScaleFactor)]) {
+                    displayScale = [NSScreen mainScreen].backingScaleFactor;
+                }
+                NSPoint cursourPoint = p;
+                cursourPoint.y = [image size].height - cursourPoint.y*displayScale;
+                cursourPoint.x *= displayScale;
+
 				p.y = [image size].height - p.y;
-				[image lockFocus];
-				[[cursor image] compositeToPoint:p operation:NSCompositeSourceOver];
+                
+                [image lockFocus];
+                NSImage* cursorImage = [cursor image];
+                
+//                NSLog(@"recommendedLayerContentsScale:%f", [cursorImage recommendedLayerContentsScale:displayScale]);
+//                NSLog(@"layerContentsForContentsScale:%@", [cursorImage layerContentsForContentsScale:displayScale]);
+                /* result
+                 recommendedLayerContentsScale:2.000000
+                 layerContentsForContentsScale:<_NSImageLayerContents: 0x172a40>
+                 */
+                
+                NSRect cursorRect = NSMakeRect(0, 0, cursorImage.size.width, cursorImage.size.height);
+                NSRect dstRect = cursorRect;
+                dstRect.size.width *= displayScale;
+                dstRect.size.height *= displayScale;
+                dstRect.origin = cursourPoint;
+
+                [cursorImage drawInRect:dstRect fromRect:cursorRect operation:NSCompositeSourceOver fraction:1.0];
 				[image unlockFocus];
 				
 				// re-creation bitmap rep
