@@ -44,7 +44,7 @@
 {
 	[_controller release];
 	[_transition release];
-	[_subviews release];
+//	[_subviews release];
 	[super dealloc];
 }
 
